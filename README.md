@@ -16,12 +16,6 @@
 
 ---
 
-## 📌 Projetos em destaque
-- 🌐 Portfólio pessoal  
-- 🧮 Calculadora em JavaScript  
-- 📖 Projetos e exercícios do IFRN  
-
----
 
 ## 📊 Stats
 ![Allyfh GitHub Stats](https://github-readme-stats.vercel.app/api?username=allyfhpontes&show_icons=true&theme=tokyonight)
