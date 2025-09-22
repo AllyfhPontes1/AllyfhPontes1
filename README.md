@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Allyfh Pontes  
+# Opa, eu sou Allyfh Pontes  
 
 🎓 Estudante de **Informática para Internet** no IFRN  
 💻 Aprendendo programação e desenvolvimento web  
